@@ -1,7 +1,5 @@
 # Weather-Dashboard
 
-# Work Day Scheduler
-
 ### URL : 
 
 ## Description
