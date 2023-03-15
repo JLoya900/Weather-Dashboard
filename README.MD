@@ -28,8 +28,7 @@ THEN I am again presented with current and future conditions for that city
 ```
 
 ## Mock-Up
-![image](https://user-images.githubusercontent.com/118794860/225467232-1befeded-0ba7-4249-9931-bbfcf135abb5.png)
-
+![image](https://user-images.githubusercontent.com/118794860/225467330-390e7d89-b1c9-465b-b4f4-0b72872e2cc2.png)
 
 ## Contributor:
 Joaquin Loya ©2023 All Rights Reserved.
