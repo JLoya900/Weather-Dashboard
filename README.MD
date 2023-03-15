@@ -1,6 +1,6 @@
 # Weather-Dashboard
 
-### URL : https://jloya900.github.io/Weather-Dashboard/
+### URL :https://jloya900.github.io/Weather-Dashboard-1/
 
 ## Description
 This weather dashboard runs in the browser through the use of third party API's and dynamically updated HTML and CSS. When a user searches a specific city the dashboard will provide the user with a 5 day weather forecast of that city and add that city to the search history. The results for the city will show the city name, the date, an icon representation of weather conditions, the temperature, the humidity, and the the wind speed 
